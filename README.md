@@ -1,0 +1,1 @@
+# KB12924_XamDataGrid_SummaryStringFormat_WpfApp1
